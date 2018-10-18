@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JHDeviceID_Example' do
+  pod 'JHDeviceID', :path => '../'
+
+  target 'JHDeviceID_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
