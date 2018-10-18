@@ -1,0 +1,16 @@
+PODS:
+  - JHDeviceID (0.1.0)
+
+DEPENDENCIES:
+  - JHDeviceID (from `../`)
+
+EXTERNAL SOURCES:
+  JHDeviceID:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHDeviceID: fc0b3c494e4c13c9c9259f36ed94b4f3b88303c5
+
+PODFILE CHECKSUM: 524efe0ef335e3ec2855cf9b23371decf3ef4dc4
+
+COCOAPODS: 1.5.3

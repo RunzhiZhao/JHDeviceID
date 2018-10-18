@@ -1,0 +1,6 @@
+framework module Pods_JHDeviceID_Tests {
+  umbrella header "Pods-JHDeviceID_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

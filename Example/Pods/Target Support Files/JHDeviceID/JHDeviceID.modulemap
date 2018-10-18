@@ -1,0 +1,6 @@
+framework module JHDeviceID {
+  umbrella header "JHDeviceID-umbrella.h"
+
+  export *
+  module * { export * }
+}
